@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey Leute! 👋
 
-<!--
-**Darkside271/Darkside271** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Willkommen auf meinem GitHub-Profil! Ich interessiere mich leidenschaftlich für das Programmieren
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,py,lua,docker)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=discord,bots,github,windows,pycharm,vscode)](https://skillicons.dev)
+
+## 🚀 Mein Discord
+[![Discord Presence](https://lanyard.cnrad.dev/api/1155566034493907014)](https://discord.com/users/1155566034493907014)
+
+## 📈 GitHub Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Darkside271&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darkside271&layout=compact&theme=dark)
+
+[![](https://visitcount.itsvg.in/api?id=Pylora&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
